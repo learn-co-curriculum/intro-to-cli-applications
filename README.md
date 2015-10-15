@@ -18,4 +18,4 @@ Their simple interface and constrained features actually allowed people totally 
 
 As a developer, some of the most powerful tools you use are CLI applications. `git` is a CLI application. `learn` is a CLI application. The `ruby` interpreter is presented as a CLI application and interface.
 
-Get excited about building CLI applications. They seem trivial and probably won't impress your friends, but they are the foundations of software and your first step in your journey to change the world through code.
+Get excited about building CLI applications. They seem trivial and probably won't impress your friends, but they are the foundations of software and your first step in your journey to change the world through code. In the next few sections, we'll learn a few things about programming best practices that will help you write great CLI applications.

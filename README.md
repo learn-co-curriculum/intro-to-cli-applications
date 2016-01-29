@@ -20,4 +20,4 @@ As a developer, some of the most powerful tools you use are CLI applications. `g
 
 Get excited about building CLI applications. They seem trivial and probably won't impress your friends, but they are the foundations of software and your first step in your journey to change the world through code. In the next few sections, we'll learn a few things about programming best practices that will help you write great CLI applications.
 
-<a href='https://learn.co/lessons/intro-to-cli-applications' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-cli-applications' title='Intro to CLI Applications'>Intro to CLI Applications</a> on Learn.co and start learning to code for free.</p>

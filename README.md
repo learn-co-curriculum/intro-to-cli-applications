@@ -8,8 +8,6 @@ For example:
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2KV9Io17cD8?rel=0&amp;showinfo=0&html5=1" frameborder="0" allowfullscreen></iframe>
 
-[Download Video](http://learn-co-videos.s3.amazonaws.com/cli/cli-applications.mp4)
-
 As you can see, a CLI application has a seemingly crude interface that implies limited potential and functionality for the end user. The truth is that CLI applications birthed the software revolution. 
 
 > "Write programs to handle text streams, because that is a universal interface.” Douglas McIlroy, creator of UNIX Operating System

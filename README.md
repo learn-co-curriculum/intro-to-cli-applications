@@ -4,7 +4,7 @@
 
 Command Line Applications (aka CLI applications or simply CLIs - for Command Line Interface) are programs that you interact with entirely through your terminal and shell. They have no graphics or visual interface beyond what you see in your terminal after you run the program. They don't have drop-down navigations for you to browse or anything at all for you to click on. They can only communicate to the user through ASCII output and only accept input from the user via ASCII characters entered into a prompt.
 
-For example:
+For example (Video has no audio):
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2KV9Io17cD8?rel=0&amp;showinfo=0&html5=1" frameborder="0" allowfullscreen></iframe>
 
@@ -19,3 +19,5 @@ As a developer, some of the most powerful tools you use are CLI applications. `g
 Get excited about building CLI applications. They seem trivial and probably won't impress your friends, but they are the foundations of software and your first step in your journey to change the world through code. In the next few sections, we'll learn a few things about programming best practices that will help you write great CLI applications.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-cli-applications' title='Intro to CLI Applications'>Intro to CLI Applications</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-cli-applications'>Intro to Command Line Applications</a> on Learn.co and start learning to code for free.</p>
